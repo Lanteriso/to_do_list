@@ -94,7 +94,7 @@ python-wowapi==2.2.0
 pyttsx3==2.7
 pytz==2018.5
 pywifi==1.1.10
-pywin32==224
+pywin32==301
 pywin32-ctypes==0.2.0
 PyYAML==3.13
 pyzmq==17.1.2

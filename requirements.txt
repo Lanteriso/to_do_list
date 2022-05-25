@@ -78,7 +78,7 @@ pygame==1.9.4
 Pygments==2.2.0
 PyHamcrest==1.9.0
 PyInstaller==3.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==18.0.0
 pyparsing==2.2.2
 pypiwin32==223
